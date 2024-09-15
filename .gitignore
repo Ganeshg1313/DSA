@@ -1,0 +1,8 @@
+# Ignore executable files
+*.exe
+
+# You can also ignore other temporary or compiled files
+*.o
+*.obj
+*.out
+*.class
